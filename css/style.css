@@ -7,7 +7,7 @@
 
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *
 * ======================================================= */
 body {
@@ -57,7 +57,12 @@ p {
 
 h1, h2, h3, h4, h5, h6, figure {
   color: #000;
+
   font-family: "Montserrat", Arial, sans-serif;
+
+/*
+  font-family: 'Raleway', sans-serif;
+*/
   font-weight: 400;
   margin: 0 0 20px 0; }
 
